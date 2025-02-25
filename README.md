@@ -24,7 +24,7 @@ Below are some screenshots of the application:
 
 <table>
   <tr>
-    <td><img src="images/home.png" alt="Home" width="200"/></td>
+    <td><img src="images/playlist.png" alt="Playlist Screen" width="200"/></td>
     <td><img src="images/now_playing.png" alt="Now Playing" width="200"/></td>
   </tr>
 </table>
