@@ -34,4 +34,4 @@ Below are some screenshots of the application:
 ---
 
 **Author: Imotdinov Bunyodbek**  
-**Contact: [imotdinovbunyodbek2@gmail.com](mailto:imotdinovbunyodbek2@gmail.com)"
+Contact: [imotdinovbunyodbek2@gmail.com](mailto:imotdinovbunyodbek2@gmail.com)"
